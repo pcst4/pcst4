@@ -1,16 +1,43 @@
-## Hi there 👋
 
-<!--
-**pcst4/pcst4** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# 👋 Olá, eu sou Patrick!
 
-Here are some ideas to get you started:
+🎓 Atualmente estou estudando desenvolvimento web e programação.
+💻 Aprendendo e praticando:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+* ☕ Java
+* 🎨 CSS
+* 🌐 HTML
+
+---
+
+## 🚀 Sobre mim
+
+Estou focado em melhorar minhas habilidades em programação, criando projetos e aprendendo mais todos os dias.
+
+Meu objetivo é evoluir como desenvolvedor e construir projetos cada vez melhores.
+
+---
+
+## 📚 Tecnologias que estou aprendendo
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=java,html,css" />
+</p>
+
+---
+
+## 📈 Objetivos atuais
+
+* Melhorar minha lógica de programação
+* Criar projetos práticos
+* Aprender desenvolvimento back-end com Java
+* Evoluir no front-end com HTML e CSS
+
+---
+
+* GitHub: [https://github.com/pcst4](https://github.com/pcst4)
+
+---
+
+⭐ Obrigado por visitar meu perfil!
+
